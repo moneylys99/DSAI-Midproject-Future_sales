@@ -8,5 +8,5 @@
     https://nbviewer.jupyter.org/github/moneylys99/DSAI-Midproject-Future_sales/blob/master/sales-xgboost-094.ipynb  
     b. 0.92718  
     https://nbviewer.jupyter.org/github/moneylys99/DSAI-Midproject-Future_sales/blob/master/sales-xgboost-092718.ipynb 
-    c. 0.92030
+    c. 0.92030  
     https://nbviewer.jupyter.org/github/moneylys99/DSAI-Midproject-Future_sales/blob/master/sales-xgboost-092030.ipynb
