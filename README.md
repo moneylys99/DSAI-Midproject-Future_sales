@@ -1,1 +1,2 @@
-# DSAI-Midproject-Future_sales #
+## DSAI-Mid. Project: Predict Future Sales ##
+### 數據所 錢信諺 ###
